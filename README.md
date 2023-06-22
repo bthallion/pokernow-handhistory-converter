@@ -6,7 +6,7 @@ Features
 * Supports all game types Pot limit Omaha High, Pot limit Omaha Hi/lo and no limit Texas Hold'em.
 * Provides Hold'em Manager Micro Stakes support by configurable currencyFactor amount.
 * Using a folder with converted File(s) as Pocker Tracker Auto-Import folder could enable the HUD in your browser.  
-* Converts pokernow.club csv files to Pokerstars hand history file text format
+* Converts pokernow.club csv files to PokerStars hand history file text format
 
 ### Known Limitations
 * Only cash games and no tournaments are yet supported
@@ -32,9 +32,9 @@ Downloading a recent file from pokernow.club and converting it can enable the HU
 You would just set the auto import folder of PockerTracker4 to a directory with the latest converted file.
 In Hold'em Manager the HUD activation was not possible. It is restrictive about expected programs and the type of hand history files
 
-![PokernowHUD](https://github.com/evolutionsoftswiss/pokernow-handhistory-converter/blob/develop/PokernowHud.png)
+![PokerNowHUD](https://github.com/evolutionsoftswiss/pokernow-handhistory-converter/blob/develop/PokerNowHud.png)
 
-### Configuring Pokernow Handhistory Converter
+### Configuring PokerNow Handhistory Converter
 Use conversion.properties and name-mappings.properties to configure the conversion program.
 There are two properties configuration files to configure the behavior of the converter program.
 
